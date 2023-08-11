@@ -3,6 +3,9 @@
 table, tr, th, td {
 	border: 2px solid black;
 }
+td{
+	padding:8px 0 8px 0;
+}
 table{
 	text-align:center;
 	width:100%;
